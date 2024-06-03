@@ -1,9 +1,9 @@
 {
   "name":"HUNCHO-MDV2",
-  "description":"bot whatsapp développé by Keith Keizzah",
+  "description":"bot whatsapp développé by samuel muema",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/835c3a335c8e2585898fc.jpg",
-  "repository":"https://github.com/Keithkeizzah/HUNCHO-MD",
+  "repository":"https://github.co/HUNCHO-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐊𝐞𝐢𝐭𝐡 𝐊𝐞𝐢𝐳𝐳𝐚𝐡"
+    "value": "SAMUEL MUEMA"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254748387615"
+    "value": "254795634681"
   },
     "WARN_COUNT":
   {
