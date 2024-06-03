@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐇𝐔𝐍𝐂𝐇𝐎 𝐌𝐃
+<h1 align="center"> HUNCHO MD 
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br>
 
@@ -14,7 +14,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> HUNCHO MD💥, A Simple WhatsApp user BOT, Created by Keith Tech.
+<p align="center"> HUNCHO MD💥, A Simple WhatsApp user BOT, Created by Sam's Tech.
 </p>
 
 
