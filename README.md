@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐇𝐔𝐍𝐂𝐇𝐎 𝐌𝐃
+<h1 align="center"> BMW SIRSAM
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br>
 
@@ -9,12 +9,12 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐇𝐔𝐍𝐂𝐇𝐎_𝐌𝐃;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+𝐊𝐄𝐈𝐓𝐇𝐊𝐄𝐈𝐙𝐙𝐀𝐇" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐇𝐔𝐍𝐂𝐇𝐎_𝐌𝐃;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+SIRSAM" alt="Typing SVG" /></a>
   </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> HUNCHO MD💥, A Simple WhatsApp user BOT, Created by Keith Tech.
+<p align="center"> HUNCHO MD💥, A Simple WhatsApp user BOT, Created by SIRSAM Tech.
 </p>
 
 
@@ -44,7 +44,7 @@
 ## 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗛𝗘 𝗢𝗪𝗡𝗘𝗥 𝗨𝗦𝗜𝗡𝗚 𝗧𝗛𝗘 𝗕𝗘𝗟𝗢𝗪 𝗕𝗨𝗧𝗧𝗢𝗡 𝗔𝗣𝗣
 
 <p align="left">
-  <a href="https://wa.me/254748387615?text=Hello%20aKeith~tech%20...%20I%20need%20some%20help%20in%20huncho%20md">
+  <a href="https://wa.me/254748387615?text=Hello%20aSAM~tech%20...%20I%20need%20some%20help%20in%20huncho%20md">
     <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    
@@ -54,9 +54,9 @@
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, <a href="https://github.com/Keithkeizzah/HUNCHO-MD/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
+1, <a href="https://github.com/Sirmuema/SIRSAM/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 
-2, TAP ON KEITH TECH APP DOWN THERE
+2, TAP ON SIRSAM TECH APP DOWN THERE
 
 
 
@@ -64,7 +64,7 @@
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Keith Tech App..
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use SIRSAM Tech App..
 
 ## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  𝐇𝐔𝐍𝐂𝐇𝐎 𝐌𝐃
 <h1 align="center">
